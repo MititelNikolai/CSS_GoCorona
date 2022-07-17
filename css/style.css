@@ -258,8 +258,7 @@ body {
 }
 
 /*-------------------------------------------------------------------------*/
-.block-text {
-}
+
 .block-text__title {
   font-weight: 700;
   font-size: 44px;
@@ -280,8 +279,6 @@ body {
 }
 .block-text__text:not(:last-child) {
   margin: 0px 0px 24px 0px;
-}
-.block-text-button {
 }
 @media (max-width: 767.98px) {
   .block-text__title {
@@ -442,8 +439,6 @@ body {
 }
 .stay-safe__content {
   flex: 0 1 50%;
-}
-.stay-safe__block-text {
 }
 
 .media-stay-safe__item {
